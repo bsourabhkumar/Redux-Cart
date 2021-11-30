@@ -4,13 +4,13 @@ import classes from './Products.module.css'
 const DUMMY_PRODUCTS = [
   {
     id: 'p1',
-    price: 60,
+    price: 600,
     title: 'Red Carpet',
     description: 'Carpet of Red Color made with fine clothing',
   },
   {
     id: 'p2',
-    price: 50,
+    price: 500,
     title: 'Flower Vase',
     description: 'A flower vase with great build and attractive looks',
   },
